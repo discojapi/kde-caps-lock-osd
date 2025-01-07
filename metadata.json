@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "KDE Caps Lock OSD",
+        "Description": "Shows a message when Caps lock or Num lock are enabled",
+        "Icon": "input-caps-on-symbolic",
+        
+        "Authors": [
+            {
+                "Email": "s.saldias10@gmail.com",
+                "Name": "Sebastian Saldias"
+            }
+        ],
+        "Id": "kde-caps-lock-osd",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/discojapi/kde-caps-lock-osd"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.qml",
+    "KPackageStructure": "KWin/Script"
+}
