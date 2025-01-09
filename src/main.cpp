@@ -1,8 +1,6 @@
-#include<iostream>
-#include<QObject>
-#include"osd.h"
+#include <QGuiApplication>
 
-int main(int argc, char *argv[]){
-    std::cout << "Row Row Fight da powah" << std::endl;
+int main(int argc, char *argv[])
+{
     return 0;
 }
