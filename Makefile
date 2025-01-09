@@ -3,3 +3,5 @@ bin/out : src/main.cpp
 
 clean:
 	rm bin/out
+run: bin/out
+	bin/out
