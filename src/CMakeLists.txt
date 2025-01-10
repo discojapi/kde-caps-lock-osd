@@ -1,6 +1,5 @@
 qt_add_executable(kde-caps-lock-osd
     main.cpp
-    osd.cpp
 )
 
 # Use the QtQuick module from Qt 6.
